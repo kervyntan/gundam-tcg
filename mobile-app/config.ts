@@ -1,1 +1,1 @@
-export const API_BASE_URL: string = `http://:${process.env.IP}:8000`;
+export const API_BASE_URL: string = `http://${'192.168.50.65'}:8000`;
